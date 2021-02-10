@@ -5,11 +5,7 @@ I am **Jason Wang** , a pre-final year computer engineering student at the **The
 - 🌱  I’m currently learning **SwiftUI**
 - 👯  I’m looking to collaborate on **literally anything as long as it excites me enough**
 - 💬  Ask me about **iOS and Opensource**
-#
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ropponngi&&show_icons=true&title_color=fe428e&icon_color=f8d847&text_color=a9fef7&bg_color=141321&hide=issues&count_private=true&include_all_commits=true" width="100%">
-
-##
 ### Connect with me:
 
 [![Gmail Badge](https://img.shields.io/badge/-brunohemingway689@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunohemingway689@gmail.com)](brunohemingway689@gmail.com)
