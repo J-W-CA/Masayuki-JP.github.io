@@ -1,44 +1,16 @@
-```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
 
-class DataEngineer:
-    def __init__(self):
-        self.name = "Jason Wang"
-        self.role = "Software Engineer"
-        self.location = "22.15\xc2\xb0 N, 114.15\xc2\xb0 E"
-        self.blog = "https://Ropponngi.github.io/"
-        self.knowledge_base = [
-            "Software Enginnering",
-            "Machine Learning",
-            "Deep Learning",
-            "Computer Vision",
-            "iOS Platform&Program",
-        ]
-        self.knowledge_base.insert(0, "Backend Engineering")
+I am **Jason Wang** , a pre-final year computer engineering student at the **The Hong Kong Universoty of Science and Technology**. I am an **iOS developer** with experience in creating apps in AR amongst other things.
+#
+- 🔭  I’m currently working on **CoreML** 
+- 🌱  I’m currently learning **SwiftUI**
+- 👯  I’m looking to collaborate on **literally anything as long as it excites me enough**
+- 💬  Ask me about **iOS and Opensource**
+#
 
-    def say_hi(self):
-        print(
-            """Hello my friend, thanks for dropping by!
+<img src="https://github-readme-stats.vercel.app/api?username=Ropponngi&&show_icons=true&title_color=fe428e&icon_color=f8d847&text_color=a9fef7&bg_color=141321&hide=issues&count_private=true&include_all_commits=true" width="100%">
 
-This is {name}, I live in {location}. I work as a {role} and recently I am focusing on {focus} for my personal growth.
-
-I have wide interests, but most of them are {knowledge_base}.
-
-I write down tips and lecture notes on my personal tech blog, which can be found here: {blog}""".format(
-                name=self.name,
-                location=self.location,
-                role=self.role,
-                focus=self.knowledge_base[0],
-                knowledge_base=", ".join(self.knowledge_base[1:]),
-                blog=self.blog,
-            )
-        )
-
-me = DataEngineer()
-me.say_hi()
-
-```
+##
+### Connect with me:
 
 [![Gmail Badge](https://img.shields.io/badge/-brunohemingway689@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunohemingway689@gmail.com)](brunohemingway689@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-JasonWang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jason-wang-0521741b2/)](https://www.linkedin.com/in/jason-wang-0521741b2/)
