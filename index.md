@@ -1,5 +1,5 @@
 
-I am **Jason Wang** , a pre-final year computer engineering student at the **The Hong Kong Universoty of Science and Technology**. I am an **iOS developer** with experience in creating apps in AR amongst other things.
+I am **Jason Wang** , a pre-final year computer engineering student at the **The Hong Kong University**,transfer from **Guangzhou University mainland** and I am preparing to finish my Master program in **KAIST**. I am an **iOS developer** with experience in creating apps in AR amongst other things.
 #
 - 🔭  I’m currently working on **CoreML** 
 - 🌱  I’m currently learning **SwiftUI**
