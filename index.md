@@ -12,6 +12,7 @@ I am **Jason Wang** , a pre-final year computer engineering student at the **The
 [![Linkedin Badge](https://img.shields.io/badge/-JasonWang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jason-wang-0521741b2/)](https://www.linkedin.com/in/jason-wang-0521741b2/)
 
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 <div class="badge-base LI-profile-badge" data-locale="zh_CN" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="jason-wang-0521741b2" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://hk.linkedin.com/in/jason-wang-0521741b2?trk=profile-badge">Jason Wang</a></div>
               
 ### 🚀🔧 Preferred Programming Language
