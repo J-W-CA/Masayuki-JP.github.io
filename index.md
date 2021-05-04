@@ -11,6 +11,9 @@ I am **Jason Wang** , a pre-final year computer engineering student at the **The
 [![Gmail Badge](https://img.shields.io/badge/-brunohemingway689@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunohemingway689@gmail.com)](brunohemingway689@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-JasonWang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jason-wang-0521741b2/)](https://www.linkedin.com/in/jason-wang-0521741b2/)
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="zh_CN" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="jason-wang-0521741b2" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://hk.linkedin.com/in/jason-wang-0521741b2?trk=profile-badge">Jason Wang</a></div>
+              
 ### 🚀🔧 Preferred Programming Language
 ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
 ![Kotlin]( https://img.shields.io/badge/Kotlin-black?style=flat-square&logo=kotlin)
@@ -40,16 +43,13 @@ I am **Jason Wang** , a pre-final year computer engineering student at the **The
 
 ## ⚡ GitHub Stats
 
-<a href="https://github.com/Ropponngi/Ropponngi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ropponngi&hide=c%2B%2B,c,html&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Ropponngi's GitHub Stats" />
+<a href="https://github.com/LeeJunwoo-KR/LeeJunwoo-KR">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeJunwoo-KR&hide=c%2B%2B,c,html&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Ropponngi's GitHub Stats" />
 </a>
 
-<a href="https://github.com/Ropponngi/Ropponngi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ropponngi&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Ropponngi's GitHub Stats" />
+<a href="https://github.com/LeeJunwoo-KR/LeeJunwoo-KR">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LeeJunwoo-KR&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Ropponngi's GitHub Stats" />
 </a>
 
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=zhenye-na&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 
